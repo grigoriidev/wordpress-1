@@ -1,0 +1,77 @@
+[05-Nov-2016 00:52:07] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/nav-menu-template.php on line 16
+[05-Nov-2016 00:52:14] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[05-Nov-2016 00:52:15] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page.php on line 17
+[05-Nov-2016 00:52:40] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[05-Nov-2016 00:52:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[05-Nov-2016 00:52:41] PHP Fatal error:  Call to undefined function  add_filter() in /home2/totallz5/public_html/wp-includes/default-filters.php on line 17
+[05-Nov-2016 00:52:47] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/script-loader.php on line 25
+[05-Nov-2016 00:53:00] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss.php on line 19
+[05-Nov-2016 00:53:06] PHP Fatal error:  Call to undefined function  add_action() in /home2/totallz5/public_html/wp-includes/formatting.php on line 4829
+[05-Nov-2016 00:53:09] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/compat.php on line 338
+[05-Nov-2016 00:53:20] PHP Fatal error:  Call to undefined function  is_admin() in /home2/totallz5/public_html/wp-includes/vars.php on line 23
+[05-Nov-2016 00:53:29] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/functions.php on line 8
+[05-Nov-2016 00:54:08] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[05-Nov-2016 00:54:10] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category.php on line 17
+[05-Nov-2016 00:54:15] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[05-Nov-2016 00:54:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[05-Nov-2016 00:54:20] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-comment.php on line 16
+[05-Nov-2016 00:54:26] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-atom.php on line 8
+[05-Nov-2016 00:54:36] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-rss2.php on line 8
+[28-Nov-2016 19:50:44] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[28-Nov-2016 20:08:14] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 09:55:14] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 10:17:12] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 10:40:19] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 11:03:17] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration.php on line 7
+[31-Dec-2016 00:06:32] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[31-Dec-2016 00:06:33] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[04-Jan-2017 10:40:48] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[04-Jan-2017 10:40:49] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[11-Jan-2017 13:57:41] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/functions.php on line 8
+[02-Feb-2017 22:03:06] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/class-feed.php on line 4
+[02-Feb-2017 22:03:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/class-feed.php on line 4
+[02-Feb-2017 22:04:52] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/nav-menu-template.php on line 16
+[02-Feb-2017 22:04:58] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[02-Feb-2017 22:04:59] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page.php on line 17
+[02-Feb-2017 22:05:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/script-loader.php on line 25
+[02-Feb-2017 22:05:15] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2017 22:05:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2017 22:05:16] PHP Fatal error:  Call to undefined function  add_filter() in /home2/totallz5/public_html/wp-includes/default-filters.php on line 17
+[02-Feb-2017 22:05:18] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss-functions.php on line 8
+[02-Feb-2017 22:05:53] PHP Fatal error:  Call to undefined function  add_action() in /home2/totallz5/public_html/wp-includes/formatting.php on line 4829
+[02-Feb-2017 22:05:54] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/compat.php on line 338
+[02-Feb-2017 22:06:02] PHP Fatal error:  Call to undefined function  is_admin() in /home2/totallz5/public_html/wp-includes/vars.php on line 23
+[02-Feb-2017 22:06:12] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/functions.php on line 8
+[02-Feb-2017 22:06:27] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-rdf.php on line 8
+[02-Feb-2017 22:07:13] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-comment.php on line 16
+[02-Feb-2017 22:07:15] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss.php on line 19
+[02-Feb-2017 22:07:22] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[02-Feb-2017 22:07:23] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category.php on line 17
+[02-Feb-2017 22:07:41] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[02-Feb-2017 22:07:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[02-Feb-2017 22:07:51] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-rss2.php on line 8
+[02-Feb-2017 22:07:52] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-atom.php on line 8
+[10-Mar-2017 02:43:24] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss-functions.php on line 8
+[10-Mar-2017 02:43:28] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss-functions.php on line 8
+[22-Mar-2017 08:46:34] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[25-Mar-2017 21:55:36] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/registration-functions.php on line 7
+[01-May-2017 16:35:04] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/nav-menu-template.php on line 16
+[01-May-2017 16:35:08] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-rdf.php on line 8
+[01-May-2017 16:35:10] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home2/totallz5/public_html/wp-includes/rss.php on line 19
+[01-May-2017 16:35:14] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[01-May-2017 16:35:16] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-page.php on line 17
+[01-May-2017 16:35:37] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[01-May-2017 16:35:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/default-widgets.php on line 11
+[01-May-2017 16:35:38] PHP Fatal error:  Call to undefined function  add_filter() in /home2/totallz5/public_html/wp-includes/default-filters.php on line 17
+[01-May-2017 16:36:09] PHP Fatal error:  Call to undefined function  add_action() in /home2/totallz5/public_html/wp-includes/formatting.php on line 4829
+[01-May-2017 16:36:11] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/compat.php on line 338
+[01-May-2017 16:36:22] PHP Fatal error:  Call to undefined function  is_admin() in /home2/totallz5/public_html/wp-includes/vars.php on line 23
+[01-May-2017 16:36:33] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/functions.php on line 8
+[01-May-2017 16:36:44] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/script-loader.php on line 25
+[01-May-2017 16:37:28] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[01-May-2017 16:37:29] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-category.php on line 17
+[01-May-2017 16:37:41] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[01-May-2017 16:37:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/totallz5/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[01-May-2017 16:37:47] PHP Fatal error:  Class 'Walker' not found in /home2/totallz5/public_html/wp-includes/class-walker-comment.php on line 16
+[01-May-2017 16:38:00] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-rss2.php on line 8
+[01-May-2017 16:38:02] PHP Fatal error:  Call to undefined function  feed_content_type() in /home2/totallz5/public_html/wp-includes/feed-atom.php on line 8

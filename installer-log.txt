@@ -1,0 +1,182 @@
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP1 START @ 09:11:04
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	1.1.6
+PHP:		5.2.17 | SAPI: cgi-fcgi
+SERVER:		Apache
+DOC ROOT:	/home2/totallz5/public_html
+DOC ROOT 755:	true
+LOG FILE 644:	true
+BUILD NAME:	20160416_ttents_5712a962a26c78928160416210642
+REQUEST URL:	http://totallytent.com/installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	20160416_ttents_5712a962a26c78928160416210642_archive.zip
+SIZE:	24.6MB
+ZIP:	Enabled (ZipArchive Support)
+EXTRACTING
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4559
+    [filename] => /home2/totallz5/public_html/20160416_ttents_5712a962a26c78928160416210642_archive.zip
+    [comment] => 
+)
+COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to .orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  '/home2/totallz5/public_html/installer-data.sql'
+- WP-CONFIG: '/home2/totallz5/public_html/wp-config.php'
+
+ARCHIVE RUNTIME: 1.4640 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIROMENT
+--------------------------------------
+MYSQL VERSION:	5.5.42-37.1-log
+TIMEOUT:	5000
+MAXPACK:	268435456
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+DROP TABLE:	removed (37) tables
+QUERIES RAN:	344
+
+wp__wsd_plugin_alerts: (23)
+wp__wsd_plugin_live_traffic: (510)
+wp_cartypes: (0)
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_crp_portfolios: (1)
+wp_crp_projects: (1)
+wp_duplicator_packages: (2)
+wp_fare: (1)
+wp_huge_it_videogallery_galleries: (3)
+wp_huge_it_videogallery_videos: (15)
+wp_huge_itgallery_gallerys: (2)
+wp_huge_itgallery_images: (9)
+wp_huge_itgallery_like_dislike: (0)
+wp_links: (0)
+wp_nextend2_image_storage: (25)
+wp_nextend2_section_storage: (4)
+wp_nextend2_smartslider3_generators: (0)
+wp_nextend2_smartslider3_sliders: (3)
+wp_nextend2_smartslider3_slides: (13)
+wp_ngg_album: (0)
+wp_ngg_gallery: (1)
+wp_ngg_pictures: (5)
+wp_options: (243)
+wp_postmeta: (966)
+wp_posts: (600)
+wp_pps_countries: (240)
+wp_pps_popup: (36)
+wp_term_relationships: (27)
+wp_term_taxonomy: (3)
+wp_termmeta: (0)
+wp_terms: (3)
+wp_unitegallery_categories: (1)
+wp_unitegallery_galleries: (1)
+wp_unitegallery_items: (0)
+wp_usermeta: (53)
+wp_users: (2)
+Removed '45' cache/transient rows
+
+SECTION RUNTIME: 0.3646 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 09:11:06 - TOTAL RUNTIME: 1.8876 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP2 START @ 09:11:30
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp__wsd_plugin_alerts~ (23)
+wp__wsd_plugin_live_traffic~ (510)
+wp_cartypes^ (0)
+wp_commentmeta^ (0)
+wp_comments^ (0)
+wp_crp_portfolios~ (1)
+wp_crp_projects~ (1)
+wp_duplicator_packages^ (0)
+wp_fare~ (1)
+wp_huge_it_videogallery_galleries~ (3)
+wp_huge_it_videogallery_videos~ (15)
+wp_huge_itgallery_gallerys~ (2)
+wp_huge_itgallery_images~ (9)
+wp_huge_itgallery_like_dislike^ (0)
+wp_links^ (0)
+wp_nextend2_image_storage~ (25)
+wp_nextend2_section_storage~ (4)
+wp_nextend2_smartslider3_generators^ (0)
+wp_nextend2_smartslider3_sliders~ (3)
+wp_nextend2_smartslider3_slides~ (13)
+wp_ngg_album^ (0)
+wp_ngg_gallery~ (1)
+wp_ngg_pictures~ (5)
+wp_options~ (197)
+wp_postmeta~ (966)
+wp_posts~ (600)
+wp_pps_countries~ (240)
+wp_pps_popup~ (36)
+wp_term_relationships~ (27)
+wp_term_taxonomy~ (3)
+wp_termmeta^ (0)
+wp_terms~ (3)
+wp_unitegallery_categories~ (1)
+wp_unitegallery_galleries~ (1)
+wp_unitegallery_items^ (0)
+wp_usermeta~ (53)
+wp_users~ (2)
+--------------------------------------
+SEARCH1:	'http://ttents-sample.atwebpages.com' 
+REPLACE1:	'http://totallytent.com' 
+SEARCH2:	'/srv/disk7/1050797/www/ttents-sample.atwebpages.com/' 
+REPLACE2:	'/home2/totallz5/public_html/' 
+SCANNED:	Tables:37 | Rows:2745 | Cells:24425 
+UPDATED:	Tables:5 | Rows:1176 |Cells:1715 
+ERRORS:		0 
+RUNTIME:	2.486400 sec
+
+********************************************************************************
+START FINAL CLEANUP: 09:11:32
+********************************************************************************
+UPDATE `wp_blogs` SET domain = 'totallytent.com' WHERE domain = 'ttents-sample.atwebpages.com'
+
+--------------------------------------
+WARNINGS
+--------------------------------------
+No Warnings Found
+
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 09:11:32 - TOTAL RUNTIME: 2.5127 sec.
+********************************************************************************

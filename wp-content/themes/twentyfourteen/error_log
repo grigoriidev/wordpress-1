@@ -1,0 +1,18 @@
+[28-Nov-2016 08:41:08] PHP Fatal error:  Call to undefined function  get_header() in /home2/totallz5/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[28-Nov-2016 19:24:59] PHP Fatal error:  Call to undefined function  get_header() in /home2/totallz5/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[02-Dec-2017 11:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[02-Dec-2017 11:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[10-Feb-2018 11:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[10-Feb-2018 11:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/totallz5/public_html/wp-content/themes/twentyfourteen/index.php on line 17
